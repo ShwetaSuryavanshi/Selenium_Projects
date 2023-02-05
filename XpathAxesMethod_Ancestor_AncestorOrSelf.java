@@ -46,5 +46,4 @@ public class XpathAxesMethod_Ancestor_AncestorOrSelf {
 		
 		
 	}
-
 }
